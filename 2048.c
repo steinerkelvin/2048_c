@@ -1,8 +1,9 @@
-#include<stdio.h>
-#include<unistd.h>
-#include<math.h>
-#include<string.h>
-#include<time.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+#include <math.h>
+#include <string.h>
+#include <time.h>
 
 #ifdef __linux
     #include<termios.h>
